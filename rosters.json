@@ -1,0 +1,18 @@
+{
+  "teams": [
+    {
+      "name": "Bulls",
+      "players": [
+        { "number": 23, "name": "Michael Jordan", "position": "SG", "height": "6'6\"" },
+        { "number": 33, "name": "Scottie Pippen", "position": "SF", "height": "6'8\"" }
+      ]
+    },
+    {
+      "name": "Lakers",
+      "players": [
+        { "number": 8, "name": "Kobe Bryant", "position": "SG", "height": "6'6\"" },
+        { "number": 34, "name": "Shaquille O'Neal", "position": "C", "height": "7'1\"" }
+      ]
+    }
+  ]
+}
